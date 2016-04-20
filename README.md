@@ -1,2 +1,6 @@
-# BB8
-House my Arduino sketches for my BB8 build.
+# BB-8
+Arduino sketches for my BB-8 build.
+
+Initial effort is to tackle the Dome lights and sounds, creating a replica of the movie character.
+
+The Body code will be developed at a later date.
